@@ -3,7 +3,7 @@ import requests
 
 # Dummy credentials
 USERNAME = "admin"
-PASSWORD = "password"
+PASSWORD = "admin"
 
 # Session state keys
 if "logged_in" not in st.session_state:
